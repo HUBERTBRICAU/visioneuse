@@ -24,10 +24,7 @@ body {
   border-radius: 25px;
   margin: 0 40px;
 }
-.card {
-  /* border-radius: 25px; */
-  /* background-color: #fff; */
-}
+
 .image-content,
 .card-content {
   padding: 10px 14px;
